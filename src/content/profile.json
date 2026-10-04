@@ -1,0 +1,312 @@
+{
+  "$schema": "../../schema/athlete.schema.json",
+  "slug": "sihle-mahlangu",
+  "name": {
+    "first": "Sihle",
+    "last": "Mahlangu",
+    "full": "Sihle Mahlangu",
+    "preferred": "Sihle"
+  },
+  "tagline": "A high jumper who found his speed.",
+  "headline": "Texas Track & Field · 400m · 4x400m Relay",
+  "eventGroup": "sprints",
+  "events": [
+    "400m",
+    "4x400m relay",
+    "200m",
+    "800m"
+  ],
+  "hometown": "Wolmaransstad, South Africa",
+  "school": {
+    "name": "The University of Texas at Austin",
+    "major": "Economics",
+    "classYear": "Sophomore",
+    "gradDate": "Expected May 2029"
+  },
+  "contact": {
+    "email": "smm8669@my.utexas.edu",
+    "website": "https://sihlemahlangu.com"
+  },
+  "bio": {
+    "short": "Sihle Mahlangu is a 400m sprinter for Texas from Wolmaransstad, South Africa. A former youth high jumper, he won World U20 relay silver for South Africa in 2024 and ran for Texas at the 2026 NCAA Championships. He studies Economics and was a 2026 Feniex Project Manager Intern.",
+    "long": [
+      "Mahlangu is a 400m runner whose best is 46.02. In August 2024, still in his final year of school, he ran the second leg for South Africa at the World Athletics U20 Championships in Lima, Peru. His 45.50 split, the third-fastest of the night, moved the team from fifth to second, and South Africa took silver in 3:05.22. As a Texas freshman in 2025-26 he ran on the 4x400m relay that earned an automatic NCAA berth in 3:02.12, raced at the NCAA Championships in Eugene, and ran college bests from 21.37 in the 200m to 1:53.13 in the 800m.",
+      "He was born in Wolmaransstad and moved to Potchefstroom at the start of grade 10 to attend Potchefstroom Gimnasium. He began as a high jumper at age 10 and won national youth medals before an injury ended his jumping in 2022. His coaches moved him to the sprints. In his words: \"We didn't realize how fast I was until 2023.\" He grew up in a Tswana community, went to Afrikaans schools and speaks English most of the time. At Texas he studies Economics and made the 2026 USTFCCCA All-Academic Team in his first season.",
+      "Mahlangu has said his long-term goal is to compete as an Olympian while building a career in business and leadership. His 2026 Project Manager Internship at Feniex Industries, the Austin manufacturer of emergency-vehicle lighting, sirens and controllers, put the second half of that plan to work. An Economics student who has already rebuilt his sport once, he brings a relay runner's habits to project work: knowing his leg, owning it, and handing off clean to the next person in line."
+    ]
+  },
+  "stats": [
+    {
+      "label": "World U20 Championships, 4x400m relay",
+      "value": "Silver",
+      "note": "Lima, Peru, 2024"
+    },
+    {
+      "label": "Relay split in the world final",
+      "value": "45.50",
+      "note": "Third-fastest of the night, Lima 2024"
+    },
+    {
+      "label": "400m personal best",
+      "value": "46.02",
+      "note": "Potchefstroom, South Africa, 2024"
+    },
+    {
+      "label": "Texas 4x400m, NCAA automatic qualifier",
+      "value": "3:02.12",
+      "note": "NCAA West First Round, 2026"
+    }
+  ],
+  "prs": [
+    {
+      "event": "400m",
+      "mark": "46.02",
+      "meet": "Potchefstroom, South Africa",
+      "year": "2024",
+      "indoor": false
+    },
+    {
+      "event": "200m",
+      "mark": "21.13",
+      "meet": "Pretoria, South Africa",
+      "year": "2024",
+      "indoor": false
+    },
+    {
+      "event": "800m",
+      "mark": "1:53.13",
+      "meet": "UTSA Invitational",
+      "year": "2026",
+      "indoor": false
+    },
+    {
+      "event": "100m",
+      "mark": "10.80",
+      "meet": "Potchefstroom, South Africa",
+      "year": "2023",
+      "indoor": false
+    },
+    {
+      "event": "400m",
+      "mark": "47.47",
+      "meet": "Tyson Invitational",
+      "year": "2026",
+      "indoor": true
+    }
+  ],
+  "timeline": [
+    {
+      "year": "2019–2021",
+      "title": "National youth medals in the jumps",
+      "detail": "Won national age-group medals in the high jump and triple jump."
+    },
+    {
+      "year": "2022",
+      "title": "A new event",
+      "detail": "Moved to Potchefstroom Gimnasium and switched from the jumps to the sprints."
+    },
+    {
+      "year": "2023",
+      "title": "Continental debut",
+      "detail": "Ran the 400m final for South Africa at the African U18 Championships in Ndola, Zambia, placing fourth."
+    },
+    {
+      "year": "2024",
+      "title": "World U20 silver",
+      "detail": "Ran a 45.50 second leg as South Africa won 4x400m relay silver in Lima, Peru (3:05.22)."
+    },
+    {
+      "year": "2026",
+      "title": "NCAA Championships as a freshman",
+      "detail": "Helped Texas earn an automatic 4x400m berth (3:02.12), raced at nationals in Eugene, and made the USTFCCCA All-Academic Team."
+    },
+    {
+      "year": "2026",
+      "title": "Project Manager Intern, Feniex Industries",
+      "detail": "Supported project scheduling and coordination at the Austin maker of emergency-vehicle lighting, sirens and controllers."
+    }
+  ],
+  "honors": [
+    {
+      "title": "World Athletics U20 Championships silver medal, 4x400m relay (South Africa)",
+      "year": "2024"
+    },
+    {
+      "title": "USTFCCCA All-Academic Team",
+      "year": "2026"
+    },
+    {
+      "title": "NCAA Division I Outdoor Championships qualifier, 4x400m relay (Texas)",
+      "year": "2026"
+    }
+  ],
+  "inTheirWords": [
+    {
+      "quote": "In the long run, my biggest dream is to become a consistent Olympian while thriving in the business and leadership world.",
+      "source": "Potchefstroom Herald",
+      "date": "2024-09-06"
+    },
+    {
+      "quote": "I've learned that self-belief is crucial; without it, failure is inevitable.",
+      "source": "SABC Sport",
+      "date": "2024-09-03"
+    },
+    {
+      "quote": "The plan was gold, but we're still proud of the silver.",
+      "source": "TimesLIVE",
+      "date": "2024-09-01"
+    }
+  ],
+  "press": [
+    {
+      "title": "Silver for Sihle and team",
+      "outlet": "Potchefstroom Herald",
+      "date": "2024-09-06",
+      "url": "https://citizen.co.za/potchefstroom-herald/news/2024/09/06/silver-for-sihle-and-team"
+    },
+    {
+      "title": "How World Under-20 Championships silver medallist transitioned from high jump to sprinting",
+      "outlet": "SABC Sport",
+      "date": "2024-09-03",
+      "url": "https://www.sabcsport.com/news/how-world-under-20-championships-silver-medallist-transitioned-from-high-jump-to-sprinting"
+    },
+    {
+      "title": "Hannah and 4x400m relay team land two medals on final day of champs",
+      "outlet": "TimesLIVE",
+      "date": "2024-09-01",
+      "url": "https://www.timeslive.co.za/sport/2024-09-01-hannah-and-4x400m-relay-team-land-two-medals-on-final-day-of-champs/"
+    }
+  ],
+  "strengths": [
+    {
+      "title": "Adaptability",
+      "detail": "When the high jump ended for him in 2022, he rebuilt in a new event and was a world U20 medallist within two years."
+    },
+    {
+      "title": "Big-moment execution",
+      "detail": "He ran the third-fastest split of a world final to move his team from fifth to second."
+    },
+    {
+      "title": "Cross-cultural ease",
+      "detail": "He grew up between Tswana, Afrikaans and English, and now studies and competes on another continent."
+    },
+    {
+      "title": "Academic discipline",
+      "detail": "He earned USTFCCCA All-Academic honors as an Economics major during his first SEC season."
+    }
+  ],
+  "resume": {
+    "summary": "Economics student and Texas Track & Field sprinter; 2024 World U20 4x400m relay silver medallist for South Africa. Project Manager Intern at Feniex Industries (2026). Works comfortably across languages and cultures and brings an athlete's discipline to schedules, handoffs and accountability.",
+    "experience": [
+      {
+        "role": "Project Manager Intern",
+        "org": "Feniex Industries",
+        "location": "Austin, TX",
+        "dates": "2026",
+        "bullets": [
+          "Tracked project schedules, milestones and open items for cross-functional work at an American manufacturer of emergency-vehicle lighting, sirens and controllers.",
+          "Organized project data and timelines in spreadsheets to keep cost and schedule information visible to project owners.",
+          "Supported coordination between engineering, production and sales teams, keeping status current as work moved forward.",
+          "Documented processes and used AI tools, including Claude, to summarize information and draft project materials."
+        ]
+      }
+    ],
+    "education": [
+      {
+        "school": "The University of Texas at Austin",
+        "degree": "Major: Economics",
+        "dates": "Expected May 2029",
+        "details": [
+          "USTFCCCA All-Academic Team (2026)"
+        ]
+      },
+      {
+        "school": "Potchefstroom Gimnasium, South Africa",
+        "degree": "Secondary school (matric)",
+        "dates": "2022 – 2024",
+        "details": []
+      }
+    ],
+    "athletics": [
+      {
+        "role": "Sprinter, 400m & 4x400m Relay",
+        "org": "Texas Track & Field (SEC)",
+        "dates": "2026 – Present",
+        "bullets": [
+          "Ran on the 4x400m relay that earned an automatic NCAA berth (3:02.12, season best) and competed at the 2026 NCAA Championships.",
+          "Placed sixth with the 4x400m relay at the 2026 SEC Outdoor Championships (3:04.00).",
+          "Set college bests of 46.51 (400m), 21.37 (200m) and 1:53.13 (800m, 2nd at the UTSA Invitational)."
+        ]
+      },
+      {
+        "role": "Sprinter, 400m & 4x400m Relay",
+        "org": "Team South Africa (U18 & U20)",
+        "dates": "2023 – 2024",
+        "bullets": [
+          "Won silver at the 2024 World Athletics U20 Championships in Lima, Peru; ran the second leg in 45.50, the third-fastest split of the final.",
+          "Placed fourth in the 400m final at the 2023 African U18 Championships (47.68)."
+        ]
+      }
+    ],
+    "leadership": [],
+    "skills": {
+      "core": [
+        "Project Coordination",
+        "Schedule & Milestone Tracking",
+        "Cost & Data Tracking",
+        "Economic Analysis",
+        "Stakeholder Communication",
+        "Process Documentation",
+        "Cross-Cultural Communication"
+      ],
+      "tools": [
+        "Microsoft Excel",
+        "Microsoft Word & PowerPoint",
+        "Google Workspace",
+        "Claude (AI assistant)"
+      ],
+      "languages": [
+        "English"
+      ]
+    },
+    "honors": [
+      {
+        "title": "World Athletics U20 Championships Silver Medal, 4x400m Relay",
+        "year": "2024"
+      },
+      {
+        "title": "USTFCCCA All-Academic Team",
+        "year": "2026"
+      },
+      {
+        "title": "NCAA Division I Outdoor Championships Qualifier, 4x400m Relay",
+        "year": "2026"
+      }
+    ]
+  },
+  "hamzaQuote": {
+    "text": "Sihle says he wants to be an Olympian and a leader in business, and I believe both. A great relay runner owns his leg and hands off clean. He brought that same calm ownership to his work at Feniex.",
+    "attribution": "Hamza Deyaf, Founder & CEO, Feniex Industries"
+  },
+  "images": {
+    "hero": "pro.jpg",
+    "resumeCrop": {
+      "x": 0.47,
+      "y": 0.42,
+      "zoom": 1.27
+    },
+    "portrait": "athlete.jpg",
+    "action": []
+  },
+  "photoCredits": [
+    "Portraits: AI-assisted edits of official Texas Athletics headshots"
+  ],
+  "site": {
+    "url": "https://sihle-mahlangu-texas.vercel.app"
+  },
+  "seo": {
+    "title": "Sihle Mahlangu | Texas Track & Field · Project Management",
+    "description": "Sihle Mahlangu: Texas 400m sprinter, 2024 World U20 4x400m silver medallist for South Africa, Economics student and Feniex project management intern."
+  },
+  "noindex": true
+}
